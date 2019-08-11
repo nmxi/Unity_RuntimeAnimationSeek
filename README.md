@@ -1,0 +1,2 @@
+# Unity_RuntimeAnimationSeek
+Unity runtime上でアニメーションをシーク再生？させる
