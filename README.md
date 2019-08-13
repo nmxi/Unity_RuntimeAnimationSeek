@@ -12,3 +12,7 @@ Unity2018.2.14f1
 - Assets/Resources/Prefabsの中にあるRuntimeAnimationSeek.prefabをインスタンス
 - アニメーションさせたいHumanoidアバターオブジェクトをRuntimeAnimationSeekコンポーネントの変数に入れる
 - Enjoy
+
+## LICENSE
+
+MIT
